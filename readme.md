@@ -1,4 +1,4 @@
-# Sports Celebrity Image Classification
+Image Classification
 
 In this machine learning project, we will classify sports personalities. We will restrict our classification to only 5 people:
 1) Maria Sharapova
